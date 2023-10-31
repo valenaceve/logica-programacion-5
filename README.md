@@ -1,5 +1,4 @@
 # logica-programacion-5
-Ejercicio: 
 Instrucciones:
 
 Crear un programa en Java que realice lo siguiente:
